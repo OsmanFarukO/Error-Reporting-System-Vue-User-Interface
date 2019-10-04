@@ -22,7 +22,7 @@ import VueGoogleMaps from 'vue-googlemaps'
 Vue.use(VueGoogleMaps, {
   load: {
     // Google API key
-    apiKey: 'AIzaSyBROn4_3v0RjjxoAF5sskfYsbH2e3_22DQ',
+    apiKey: 'YOUR API KEY',
     // Enable more Google Maps libraries here
     libraries: ['places'],
     // Use new renderer
